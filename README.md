@@ -22,3 +22,5 @@ Finalmente, probé el programa con diferentes datos para asegurar que todas las 
 Este bootcamp me ha enseñado la importancia de la validación de datos para crear pequeños codigos para algun progama sencillo. También aprendí a interpretar mejor los mensajes de error.
 Además, reforcé mis habilidades para escribir código claro y comentado, lo que facilita la lectura para poder entender que se esta llevando a cabo.
 El proceso de subir mi código a GitHub y trabajar con control de versiones también me ayudó a familiarizarme más con herramientas esenciales para el desarrollo profesional ya que en este ultimo paso tuve algunas complicaciones con cuestiones de entradas de codigos a la consola para subir todo desde visual.
+
+Autor: Roberto Reyes De Hoyos
